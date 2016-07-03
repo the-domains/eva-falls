@@ -9,15 +9,15 @@ description: >-
   gameplay trailers and late night ramblings about the life, and sometimes the
   game development. Join us as we figure out what the hell Eva Falls actually
   is.
-datePublished: '2016-07-03T16:59:54.271Z'
-dateModified: '2016-07-03T16:59:25.867Z'
+datePublished: '2016-07-03T17:02:07.880Z'
+dateModified: '2016-07-03T17:00:21.501Z'
 title: ''
 author: []
-authors: []
-publisher: null
-starred: false
 sourcePath: >-
   _posts/2016-07-03-welcome-to-eva-falls-development-blog-where-you-may-find-co.md
+authors: []
+publisher: null
+starred: true
 url: welcome-to-eva-falls-development-blog-where-you-may-find-co/index.html
 _type: Article
 
