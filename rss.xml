@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[eva falls]]></title>
         <description><![CDATA[eva falls]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eva-falls/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 16:59:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jul 2016 17:02:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eva-falls/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7c9314c-19d6-4f87-a84b-30f315897334.png">]]></description>
-            <link>undefinedwelcome-to-eva-falls-development-blog-where-you-may-find-co/index.html</link>
+            <link>https://thegrid.ai/eva-falls/welcome-to-eva-falls-development-blog-where-you-may-find-co/index.html</link>
             <guid isPermaLink="false">e5ce467d-3614-4fc7-ad2d-290f09ce74d5</guid>
-            <pubDate>Sun, 03 Jul 2016 16:59:54 GMT</pubDate>
+            <pubDate>Sun, 03 Jul 2016 17:02:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
