@@ -1,6 +1,6 @@
 name: eva falls
 favicon: null
-layout_spectrum: 0.48923
+layout_spectrum: 1
 typography_spectrum: 0.38307
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#242424'
   brandStrength: 0.375
   lightness: 0.4375
-  saturation: 0.9945249676238745
+  saturation: 0.375
   rhythmicContrast: 0.4577722381800413
 purpose: []
