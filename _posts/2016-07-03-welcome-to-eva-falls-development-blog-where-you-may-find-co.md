@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to the straight face studios developers blog for Eva Falls!
-datePublished: '2016-07-04T16:47:33.988Z'
-dateModified: '2016-07-04T16:47:13.722Z'
+datePublished: '2016-07-04T16:51:50.093Z'
+dateModified: '2016-07-04T16:51:49.547Z'
 title: ''
 author:
   - name: ''
@@ -26,5 +26,3 @@ Here you may find concept art, early gameplay trailers and late night ramblings 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01e570bf-e0d5-4625-a075-858eb088c4bc.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a42b6c97-68db-491e-8a55-f3f27e18fbfc.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27bf50ad-9fcc-41e2-b4e1-0cfc9f5a3860.png)
-
-> Let's add some rough edges - and complications
