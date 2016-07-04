@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to the straight face studios developers blog for Eva Falls!
-datePublished: '2016-07-04T16:55:19.445Z'
-dateModified: '2016-07-04T16:54:44.368Z'
-title: Light against Light
+datePublished: '2016-07-04T16:58:36.378Z'
+dateModified: '2016-07-04T16:58:18.695Z'
+title: Dark against light
 author:
   - name: ''
     url: ''
@@ -15,7 +15,7 @@ sourcePath: >-
   _posts/2016-07-03-welcome-to-eva-falls-development-blog-where-you-may-find-co.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: welcome-to-eva-falls-development-blog-where-you-may-find-co/index.html
 _type: Article
 
