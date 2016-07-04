@@ -1,6 +1,6 @@
 name: eva falls
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.50323
 typography_spectrum: 0.38307
 cta:
   domain: null
@@ -17,10 +17,10 @@ opengraph:
 color:
   brandColors:
     - '#000000'
-    - '#717171'
-    - '#fefefe'
-    - '#c1c1c1'
-    - '#242424'
+    - '#707070'
+    - '#3d3c3c'
+    - '#a3a3a3'
+    - '#fdfdfd'
   brandStrength: 0.375
   lightness: 0.4375
   saturation: 0.375
