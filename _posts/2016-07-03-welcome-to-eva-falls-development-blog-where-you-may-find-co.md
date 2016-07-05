@@ -1,14 +1,12 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7c9314c-19d6-4f87-a84b-30f315897334.png
 inLanguage: null
 keywords: []
 description: Welcome to the straight face studios developers blog for Eva Falls!
-datePublished: '2016-07-04T23:49:54.499Z'
-dateModified: '2016-07-04T23:49:33.554Z'
+datePublished: '2016-07-05T00:01:22.449Z'
+dateModified: '2016-07-04T23:56:39.589Z'
 title: Dark and Gritty
 author:
   - name: ''
@@ -18,6 +16,7 @@ sourcePath: >-
 authors: []
 publisher: null
 starred: true
+url: dark-and-gritty/index.html
 _type: MediaObject
 
 ---
