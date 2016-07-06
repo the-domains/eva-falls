@@ -4,10 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-07-06T16:55:26.261Z'
-dateModified: '2016-07-06T16:55:19.720Z'
-title: Space is big..
+description: >-
+  Welcome to the Eva Falls development blog - we will be posting concept art,
+  gameplay videos and random thoughts about life and gaming as we try to figure
+  out what the hell Eva Falls really is...
+datePublished: '2016-07-06T17:11:50.580Z'
+dateModified: '2016-07-06T17:11:11.634Z'
+title: Space is big
 author:
   - name: ''
     url: ''
@@ -20,10 +23,11 @@ url: dark-and-gritty/index.html
 _type: Article
 
 ---
-Welcome to straight face studio's development blog - we will be sharing concept art, gameplay videos and random thoughts. Join us as we try to figure out what the hell Eva Falls actually is.
+Welcome to the **Eva Falls** development blog - we will be posting concept art, gameplay videos and random thoughts about life and gaming as we try to figure out what the hell Eva Falls really is...
 
-## Space is big..
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c33d140-9528-4ebb-bf24-ec186024428b.png)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a793d6b9cbadf164a9957bb34f77341ea67a9956.png)
+## Space is big
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7725c134-9b43-4e25-88f3-1a8c8e9647e8.png)
 
-## Defy the void
+## ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97b5c5e8-bf94-4ea4-aaa9-df6723a405c1.png)
+
+## Defiance
