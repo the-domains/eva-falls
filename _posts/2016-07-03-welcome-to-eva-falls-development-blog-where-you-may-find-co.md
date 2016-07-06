@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-06T16:29:01.242Z'
-dateModified: '2016-07-06T16:28:55.918Z'
-title: ''
+datePublished: '2016-07-06T16:55:26.261Z'
+dateModified: '2016-07-06T16:55:19.720Z'
+title: Space is big..
 author:
   - name: ''
     url: ''
@@ -22,8 +22,8 @@ _type: Article
 ---
 Welcome to straight face studio's development blog - we will be sharing concept art, gameplay videos and random thoughts. Join us as we try to figure out what the hell Eva Falls actually is.
 
-# Lets start with Saturn
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7523af340987e5e224c5e3f5d851d3158fa8d25.png)
-
-## Emphasize just how big space is
+## Space is big..
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c33d140-9528-4ebb-bf24-ec186024428b.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a793d6b9cbadf164a9957bb34f77341ea67a9956.png)
+
+## Defy the void
